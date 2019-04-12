@@ -742,3 +742,53 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.12-20.01.36:487][992]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/FirstPersonBP/Blueprints/PlayerUI.PlayerUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_2) from referencer (HorizontalBox /Engine/UMG/Editor/Transient.HorizontalBox_23).  Import failed...
 [2019.04.12-20.01.36:487][992]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_2"''
 [2019.04.12-20.01.38:741][992]LogSlate: Window 'Message' being destroyed
+[2019.04.12-20.10.12:845][245]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.12-20.10.18:440][587]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.12-20.10.43:819][862]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/BenMap' took 0.035
+[2019.04.12-20.10.43:820][862]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/PlayerUI] ([1] browsable assets)...
+[2019.04.12-20.10.43:820][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/PlayerUI]
+[2019.04.12-20.10.43:854][862]LogSavePackage: Moving 'D:/Profiles/btf6119/source/repos/network_class/RedConquest/Saved/PlayerUI_Auto29C454FEA4E0712B11B2F29B51E611CDE.tmp' to 'D:/Profiles/btf6119/source/repos/network_class/RedConquest/Saved/Autosaves/Game/FirstPersonBP/Blueprints/PlayerUI_Auto2.uasset'
+[2019.04.12-20.10.43:854][862]LogFileHelpers: Auto-saving content packages took 0.035
+[2019.04.12-20.10.53:100][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/PlayerUI" FILE="D:/Profiles/btf6119/source/repos/network_class/RedConquest/Content/FirstPersonBP/Blueprints/PlayerUI.uasset" SILENT=true
+[2019.04.12-20.10.53:119][396]LogSavePackage: Moving 'D:/Profiles/btf6119/source/repos/network_class/RedConquest/Saved/PlayerUIED28953A4A62521386F45ABF22A373D8.tmp' to 'D:/Profiles/btf6119/source/repos/network_class/RedConquest/Content/FirstPersonBP/Blueprints/PlayerUI.uasset'
+[2019.04.12-20.10.53:691][431]BlueprintLog: New page: Compile PlayerUI
+[2019.04.12-20.10.57:008][613]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.04.12-20.10.58:107][614]LogSlate: Took 0.004259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.12-20.11.25:603][873]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.04.12-20.11.26:521][874]LogSavePackage: Moving 'D:/Profiles/btf6119/source/repos/network_class/RedConquest/Saved/FirstPersonCharacter904329E8401EF28DF2E74E9D47F6AED0.tmp' to 'D:/Profiles/btf6119/source/repos/network_class/RedConquest/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.04.12-20.11.26:761][878]LogSavePackage: Moving 'D:/Profiles/btf6119/source/repos/network_class/RedConquest/Saved/FirstPersonCharacterCCBA1A4146F1CB5BDD013F9B9D93C740.tmp' to 'D:/Profiles/btf6119/source/repos/network_class/RedConquest/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.04.12-20.11.55:638][799]LogEditorTransaction: Undo Move Node
+[2019.04.12-20.12.53:390][755]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2019.04.12-20.13.45:047][294]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.12-20.13.45:066][294]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/BenMap.BenMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/BenMap.BenMap:PersistentLevel.BenMap' with GeneratedClass '/Game/FirstPersonBP/Maps/BenMap.BenMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/BenMap.BenMap:PersistentLevel.BenMap'
+[2019.04.12-20.13.45:067][294]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.12-20.13.45:090][294]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.04.12-20.13.45:442][294]LogPlayLevel: PlayLevel: Blueprint regeneration took 376 ms (1 blueprints)
+[2019.04.12-20.13.45:442][294]PIE: New page: PIE session: BenMap (Apr 12, 2019, 12:13:45 PM)
+[2019.04.12-20.13.45:456][294]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_BenMap
+[2019.04.12-20.13.45:472][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015482s)
+[2019.04.12-20.13.45:472][294]LogAIModule: Creating AISystem for world BenMap
+[2019.04.12-20.13.45:473][294]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2019.04.12-20.13.45:473][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/BenMap.BenMap to /Game/FirstPersonBP/Maps/UEDPIE_0_BenMap.BenMap (0.016793s)
+[2019.04.12-20.13.45:551][294]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.12-20.13.45:611][294]LogInit: FAudioDevice initialized.
+[2019.04.12-20.13.45:659][294]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.12-20.13.45:667][294]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_BenMap.BenMap up for play (max tick rate 0) at 2019.04.12-16.13.45
+[2019.04.12-20.13.45:669][294]LogWorld: Bringing up level for play took: 0.007856
+[2019.04.12-20.13.45:718][294]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.04.12-20.13.45:721][294]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_BenMap 0.03
+[2019.04.12-20.13.45:721][294]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/BenMap.BenMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/BenMap.BenMap:PersistentLevel.BenMap' with GeneratedClass '/Game/FirstPersonBP/Maps/BenMap.BenMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/BenMap.BenMap:PersistentLevel.BenMap'
+[2019.04.12-20.14.45:027][862]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/BenMap.BenMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/BenMap.BenMap:PersistentLevel.BenMap' with GeneratedClass '/Game/FirstPersonBP/Maps/BenMap.BenMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/BenMap.BenMap:PersistentLevel.BenMap'
+[2019.04.12-20.14.45:028][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-20.14.45:065][862]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.12-20.14.45:066][862]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/BenMap.BenMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/BenMap.BenMap:PersistentLevel.BenMap' with GeneratedClass '/Game/FirstPersonBP/Maps/BenMap.BenMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/BenMap.BenMap:PersistentLevel.BenMap'
+[2019.04.12-20.14.45:111][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-20.14.45:145][863]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.04.12-20.14.46:363][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.12-20.14.46:828][954]LogSavePackage: Moving 'D:/Profiles/btf6119/source/repos/network_class/RedConquest/Saved/BenMapABA873394CBB1C5758F2838B1C2A4CBA.tmp' to 'D:/Profiles/btf6119/source/repos/network_class/RedConquest/Content/FirstPersonBP/Maps/BenMap.umap'
+[2019.04.12-20.14.46:889][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/BenMap_BuiltData" FILE="D:/Profiles/btf6119/source/repos/network_class/RedConquest/Content/FirstPersonBP/Maps/BenMap_BuiltData.uasset" SILENT=true
+[2019.04.12-20.14.47:765][954]LogSavePackage: Moving 'D:/Profiles/btf6119/source/repos/network_class/RedConquest/Saved/BenMap_BuiltData1DA7CDF8457A97C5C068D2BF539ED840.tmp' to 'D:/Profiles/btf6119/source/repos/network_class/RedConquest/Content/FirstPersonBP/Maps/BenMap_BuiltData.uasset'
+[2019.04.12-20.14.56:882][616]LogSavePackage: Moving 'D:/Profiles/btf6119/source/repos/network_class/RedConquest/Saved/FirstPersonCharacter6468A7F648CB8114353DDEAF6A5E77EF.tmp' to 'D:/Profiles/btf6119/source/repos/network_class/RedConquest/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.04.12-20.19.08:768][306]LogSavePackage: Moving 'D:/Profiles/btf6119/source/repos/network_class/RedConquest/Saved/BenMap9303CAE14481CE3BC924F883D63DA7B5.tmp' to 'D:/Profiles/btf6119/source/repos/network_class/RedConquest/Content/FirstPersonBP/Maps/BenMap.umap'
+[2019.04.12-20.19.08:830][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/BenMap_BuiltData" FILE="D:/Profiles/btf6119/source/repos/network_class/RedConquest/Content/FirstPersonBP/Maps/BenMap_BuiltData.uasset" SILENT=true
+[2019.04.12-20.19.09:736][306]LogSavePackage: Moving 'D:/Profiles/btf6119/source/repos/network_class/RedConquest/Saved/BenMap_BuiltData542F0F054FE63E13ECC9F2AA0C4AACC6.tmp' to 'D:/Profiles/btf6119/source/repos/network_class/RedConquest/Content/FirstPersonBP/Maps/BenMap_BuiltData.uasset'
